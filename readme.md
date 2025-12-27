@@ -1,4 +1,4 @@
-# Three.js Journey
+This is a template for larger Three.js projects with useful utility classes.
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
